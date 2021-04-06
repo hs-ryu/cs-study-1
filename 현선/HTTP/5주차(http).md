@@ -8,8 +8,6 @@ IP에서 패킷 소실에 대해 설명해 보세요.
 
 패킷 전달 순서 문제.
 
-
-
 TCP
 
 문제를 어떻게 해결할 수 있을까? TCP (전송 제어 프로토콜 ; Transmission Control Protocol)
